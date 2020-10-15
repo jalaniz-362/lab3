@@ -219,7 +219,7 @@ h1{
 }
 
 p{
-  font-size: 1.25em /*20px*/
+  font-size: 1.25em; /*20px*/
   line-height:1.165em; /*23px*/
   padding-bottom: 1.165em;
 
