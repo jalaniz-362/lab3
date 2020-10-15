@@ -222,6 +222,25 @@ p{
   font-size: 1.25em /*20px*/
   line-height:1.165em; /*23px*/
   padding-bottom: 1.165em;
+
 }
+
+li {
+  padding:1em;
+  margin:.5em;
+}
+
+input[type=submit]{
+  border:transparent;
+  background-color: lightgray;
+  padding: .75em;
+
+}
+
+input[type=email]{
+  background-color: darkslategray;
+  border:transparent;
+}
+
 
 /* ===== STATE STYLES ======= */
