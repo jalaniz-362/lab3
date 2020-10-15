@@ -207,9 +207,21 @@ body{
   background-color: lightslategray;
   text-align: center;
 
-  
+
 }
 
 /* ===== MODULAR STYLES ===== */
+h1{
+  font-size: 1.625em; /*26px*/
+  line-height: 1.269em; /*32~px*/
+  padding:1.239em;
+
+}
+
+p{
+  font-size: 1.25em /*20px*/
+  line-height:1.165em; /*23px*/
+  padding-bottom: 1.165em;
+}
 
 /* ===== STATE STYLES ======= */
