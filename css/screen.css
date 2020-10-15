@@ -199,15 +199,12 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-label {
-  display: block;
-}
+
 /* ===== LAYOUT STYLES ====== */
 body{
   background-color: lightslategray;
   text-align: center;
   font-family: 'Slabo 27px', serif;
-
 
 }
 
