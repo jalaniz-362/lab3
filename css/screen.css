@@ -1,3 +1,5 @@
+/*imported font goes here */ 
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -197,12 +199,16 @@ html {
   padding: 1.182em; /* 26px / ~ 120% */
   text-rendering: optimizeLegibility;
 }
-
 label {
   display: block;
 }
-
 /* ===== LAYOUT STYLES ====== */
+body{
+  background-color: lightslategray;
+  text-align: center;
+
+  
+}
 
 /* ===== MODULAR STYLES ===== */
 
