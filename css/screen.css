@@ -1,4 +1,4 @@
-/*imported font goes here */ 
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Slabo+27px&display=swap');
 
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
@@ -206,6 +206,7 @@ label {
 body{
   background-color: lightslategray;
   text-align: center;
+  font-family: 'Slabo 27px', serif;
 
 
 }
